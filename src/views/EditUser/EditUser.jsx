@@ -195,17 +195,6 @@ class EditUser extends Component {
           </Row>
         </Grid>>
       </div>
-    //    <script src="javascripts/editUserScript.js"></script>
-    //    <script>
-    //    (function() {
-    //      window.addEventListener('load', function() {
-    //        var forms = [document.getElementById('html_form')];
-    //        var validation = Array.prototype.filter.call(forms, function(form) {
-    //          form.addEventListener('submit', check, false);
-    //        });
-    //      }, false);
-    //          })();
-    //  </script>
     );
   }
 }
